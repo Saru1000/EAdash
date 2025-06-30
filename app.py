@@ -100,5 +100,3 @@ st.dataframe(filtered_df)
 st.markdown("---")
 st.markdown("Built with ❤️ using Streamlit.")
 """
-with open("/mnt/data/app.py", "w") as f:
-    f.write(code)
